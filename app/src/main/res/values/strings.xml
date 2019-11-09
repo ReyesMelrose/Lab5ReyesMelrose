@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">TOP GLOBAL COMPANIES</string>
+    <string-array name="comName">
+        <item>ICBC</item>
+        <item>JP Morgan Chase</item>
+        <item>China Construction Bank</item>
+        <item>Agricultural Bank of China</item>
+        <item>Bank of America</item>
+        <item>Apple</item>
+        <item>Ping An Insurance Group</item>
+        <item>Bank of China</item>
+        <item>Royal Dutch Shell</item>
+        <item>Wells Fargo</item>
+        <item>ExxonMobil</item>
+        <item>ATnT</item>
+        <item>Samsung Electronics</item>
+        <item>Citigroup</item>
+    </string-array>
+
+    <string-array name="counName">
+        <item>Country: China</item>
+        <item>Country: United States</item>
+        <item>Country: China</item>
+        <item>Country: China</item>
+        <item>Country: United States</item>
+        <item>Country: United States</item>
+        <item>Country: China</item>
+        <item>Country: China</item>
+        <item>Country: Netherlands</item>
+        <item>Country: United States</item>
+        <item>Country: United States</item>
+        <item>Country: United States</item>
+        <item>Country: United States</item>
+        <item>Country: South Korea</item>
+    </string-array>
+
+    <string-array name="indName">
+        <item>Industry: Major Banks</item>
+        <item>Industry: Major Banks</item>
+        <item>Industry: Major Banks</item>
+        <item>Industry: Regional Banks</item>
+        <item>Industry: Major Banks</item>
+        <item>Industry: Computer Hardware</item>
+        <item>Industry: Diversified Insurance</item>
+        <item>Industry: Major Banks</item>
+        <item>Industry: Oil and Gas Operations</item>
+        <item>Industry: Major Banks</item>
+        <item>Industry: Oil and Gas Operations</item>
+        <item>Industry: Telecommunications Services</item>
+        <item>Industry: Semiconductors</item>
+        <item>Industry: Major Banks</item>
+    </string-array>
+
+    <string-array name="ceoName">
+        <item>CEO: Shu Gu</item>
+        <item>CEO: Jamie Dimon</item>
+        <item>CEO: Wang Zuji</item>
+        <item>CEO: Huan Zhao</item>
+        <item>CEO: Brian T. Moynihan</item>
+        <item>CEO: Tim Cook</item>
+        <item>CEO: Ma Mingzhe</item>
+        <item>CEO: Chen Siqing</item>
+        <item>CEO: Bernardus Cornelis Margriet van Beurden</item>
+        <item>CEO: Timothy Allen Sloan</item>
+        <item>CEO: Darren W. W. Woods</item>
+        <item>CEO: Randall L. L. Stephenson</item>
+        <item>CEO: Hyun-Suk Kim</item>
+        <item>CEO: Michael L. Louis Corbat</item>
+    </string-array>
+
+    <string-array name="comDesc">
+        <item>Industrial and Commercial Bank of China Ltd. engages in the provision of commercial banking and financial services.
+            It operates through the following business segments: Corporate Banking, Personal Banking, Treasury Operations, and Others.</item>
+        <item>JPMorgan Chase and Co. is a financial holding company, which provides financial and investment banking services.
+        It offers a range of investment banking products and services in all major capital markets, including advising on corporate strategy
+        and structure;</item>
+        <item>China Construction Bank Corp. engages in the provision of financial and banking services.
+            It operates through the following segments: Corporate Banking, Personal Banking, Treasury Business, and Others.</item>
+        <item>Agricultural Bank of China engages in the provision of international commercial banking and financial services.
+        The company operates its business through the following segments: Corporate Banking, Personal Banking, Treasury Operations and Others and Unallocated.</item>
+        <item>Bank of America Corp. is a bank and financial holding company, which engages in the provision of banking and nonbank financial services.
+            It operates through the following segments: Consumer Banking, Global Wealth and Investment Management, Global Banking, Global Markets, and Legacy Assets and Servicing.</item>
+        <item>Apple, Inc. engages in the design, manufacture, and marketing of mobile communication, media devices, personal computers, and portable digital music players.
+            It operates through the following geographical segments: Americas, Europe, Greater China, Japan, and Rest of Asia Pacific.</item>
+        <item>Ping An Insurance (Group) Co. of China Ltd. engages in the provision of financial products and services. The company primarily engages in the business of insurance, banking and investment.
+            Its activities also include investment in financial and insurance enterprises and investment deployment.</item>
+        <item>Bank of China Ltd. engages in the provision of banking and related financial services such as commercial and investment banking, and insurance and investment services.
+            The company operates its business through the following segments: Corporate Banking, Personal Banking, Treasury Operations, Investment Banking, Insurance, and Others.</item>
+        <item>Royal Dutch Shell Plc engages in the oil and natural gas production. It operates through three segments: Upstream, Downstream, and Corporate.
+            The Upstream segment combines the operating segments Upstream International and Upstream Americas, which are engaged in exploring for and recovering crude oil and natural gas;
+            the liquefaction and transportation of gas; the extraction of bitumen from oil sands that is converted into synthetic crude oil; and wind energy.</item>
+        <item>Wells Fargo and Co. is a bank holding company that engages in the provision of banking, insurance, investments, mortgage, and consumer and commercial finance.
+            It operates through the following segments: Community Banking, Wholesale Banking, and Wealth and Investment Management.</item>
+        <item>Exxon Mobil Corp. engages in the exploration, development, and distribution of oil, gas, and petroleum products.
+            It operates through the following segments: Upstream, Downstream, and Chemical. The Upstream segment produces crude oil and natural gas.
+            The Downstream segment manufactures and trades petroleum products.</item>
+        <item>AT&amp;T, Inc. is a holding company, which engages in the provision of telecommunications and digital entertainment services.
+            It operates through the following segments: Business Solutions, Entertainment Group, Consumer Mobility, and International.</item>
+        <item>Samsung Electronics Co., Ltd. engages in the manufacturing and selling of electronics and computer peripherals.
+            The company operates its business through following business divisions: Consumer Electronics, Information Technology &amp; Mobile Communications and Device Solutions.</item>
+        <item>Citigroup, Inc. is a global financial services holding company specializes in banking and financial solutions.
+            It offers a range of products and services among individuals, corporations, governments and institutions such as savings, checking, online banking,
+            individual retirements accounts, credit cards; personal, student, and commercial real estate loans, cash management services, home equity, and bill consolidation, as well as
+            online banking services, cash management, transactions, trade, securities, and fund services.</item>
+    </string-array>
+
+</resources>
